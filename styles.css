@@ -22,6 +22,14 @@ header h1 {
     text-shadow: 2px 2px 0 #f7f4f2;
 }
 
+.note {
+    text-align: center;
+    margin: 10px 30% 40px 30%;
+    border: 4px 50px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    background-color: black;
+    color: white;
+}
 
 article {
 
