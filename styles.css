@@ -24,16 +24,16 @@ header h1 {
 }
 
 
-p .button {
+button {
+    position: relative;
     border: 4px 5px solid #050401;
     box-shadow: 3px 3px 0 0 #e4572e;
     background-color: black;
     color: white;
     padding: 10px 200px 10px 200px;
-    margin-left: 30%;
-    margin-bottom: 40px;
-    text-decoration: none;
-    font-family: 'Gamja Flower', cursive;
+    display: block;
+    margin: 20px auto;
+    
 
 }
 
