@@ -23,7 +23,7 @@ function mynote() {
     let note = document.createElement("p");
     let text2 = prompt("Enter your note");
 
-    if((text !== null || text2 !== null) && (text !== '' || text2 !== '')) {
+    if((text !== null && text2 !== null) && (text !== '' && text2 !== '')) {
         heading.innerHTML = text;
         note.innerHTML = text2;
 
